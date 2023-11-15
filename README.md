@@ -3,14 +3,13 @@
 
 # PwC Challenge #
  ## PwC Detección de Fraudes  *RETO 2*! 
- 
-En un entorno global en el que el dinero metálico está siendo relegado por transacciones digitales, tener la capacidad de identificar los
-movimientos fraudulentos cobra más importancia que nunca.
 
-Históricamente, este tipo de movimientos han sido detectados y evitados mediante motores de reglas pero, hoy en día, tras la revolución de la
+**ENUNCIADO**
+En un entorno global en el que el dinero metálico está siendo relegado por transacciones digitales, tener la capacidad de identificar los
+movimientos fraudulentos cobra más importancia que nunca. Históricamente, este tipo de movimientos han sido detectados y evitados mediante motores de reglas pero, hoy en día, tras la revolución de la
 inteligencia artificial, disponemos de nuevas técnicas más precisas. 
 
-Este proyecto tiene como objetivo la detección de movimientos fraudulentos con el fin de poder identificar estos casos y actuar en consecuencia.
+**Este proyecto tiene como objetivo la detección de movimientos fraudulentos con el fin de poder identificar estos casos y actuar en consecuencia.**
 
  ![Design](https://github.com/sukuzhanay/tfginder/blob/main/tfginder_v1.drawio-2.png)
  ## Architecture ##
