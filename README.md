@@ -1,8 +1,8 @@
 ![universidad-europea-logo](https://user-images.githubusercontent.com/17354471/218064896-b8411ee7-5cec-4e97-8a71-216a4e6f3bf4.png)
 
 
-# TFGINDER #
- ## TFGINDER encuentra a tu papacito que dirija tu *TFG*! 
+# PwC Challenger #
+ ## PwC Detección de Fraudes  *RETO 2*! 
  _**TFGINDER**_ te ayuda a hacer match con el mejor director para tu TFG, podras conocer sus skills, disponibilidad, y si caes rendido a sus pies puedes enviarle una solicitud. No **llores más**, la solucion ha llegado
 
  ![Design](https://github.com/sukuzhanay/tfginder/blob/main/tfginder_v1.drawio-2.png)
@@ -15,12 +15,12 @@
 1. **Muestra** la lista de **Directores de UE**, su disponiilidad, skills y temas
 2. **Notifica** al **Director** de que lo ha **elegido** y recibiras su *Aceptacion o Negativa* 
 3. **Dashboard** interactivo para actualizar tu perfil como el de los directores
-### Autores
-1. **Christian Vladimir Sucuzhanay Arevalo** ( Profesor )
-2. **Jefe grupo 1
-3. **Jefe grupo 2 
-4. **Jefe grupo 3 
-5. **Jefe grupo 3
+### Miembros del proyecto
+1. **Profesor: Christian Vladimir Sucuzhanay Arevalo** ( Profesor )
+2. **Guillermo García González
+3. **Miguel Angel Alcon Galán  
+4. **Sebastian Marquez Cochesa
+5. **Sebastian Higueras Salas
 ### Estructura y tecnologías usadas en _**TFGINDER**_
 
 **FrontEnd**
