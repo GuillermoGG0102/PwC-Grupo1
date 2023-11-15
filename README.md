@@ -8,19 +8,19 @@ Con nuestro modelo de detección de fraudes el problema de no detectar los fraud
  ## Architecture ##
  ![Architecture](https://github.com/sukuzhanay/tfginder/blob/main/tfginder%20architecture.png)
  [![Run on Repl.it](https://repl.it/badge/github/sukuzhanay/chat_using_sockets)](https://repl.it/github/sukuzhanay/chat_using_sockets)
- ### Team PWC challenge 
+ ### Team PwC challenge 
  Prof.: **Christian Vladimir Sucuzhanay Arevalo** 
- Repositorio que alberga el proyecto PWCchallenge, contará con las funcionalidades siguientes:
+ Repositorio que alberga el proyecto PwC Challenge, contará con las funcionalidades siguientes:
 1. **Muestra** la lista de **Directores de UE**, su disponiilidad, skills y temas
 2. **Notifica** al **Director** de que lo ha **elegido** y recibiras su *Aceptacion o Negativa* 
 3. **Dashboard** interactivo para actualizar tu perfil como el de los directores
 ### Miembros del proyecto
 1. **Profesor: Christian Vladimir Sucuzhanay Arevalo** ( Profesor )
-2. **Guillermo García González
-3. **Miguel Angel Alcon Galán  
-4. **Sebastian Marquez Cochesa
-5. **Sebastian Higueras Salas
-### Estructura y tecnologías usadas en _**TFGINDER**_
+2. Guillermo García González
+3. Miguel Angel Alcon Galán
+4. Sebastian Marquez Cochesa
+5. Sebastian Higueras Salas
+### Estructura y tecnologías usadas en _**PwC Challenge**_
 
 **FrontEnd**
 1. Streamlit
