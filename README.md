@@ -14,7 +14,7 @@ inteligencia artificial, disponemos de nuevas técnicas más precisas.
 
  ![Design](https://github.com/sukuzhanay/tfginder/blob/main/tfginder_v1.drawio-2.png)
  ## Architecture ##
- ![Architecture](https://github.com/sukuzhanay/tfginder/blob/main/tfginder%20architecture.png)
+ ![Architecture](https://github.com/GuillermoGG0102/PwC-Grupo1/blob/af7fac28ea78dcf0ba11014cd73f6ba76607b1ac/Diagrama%20en%20blanco.png)
  [![Run on Repl.it](https://repl.it/badge/github/sukuzhanay/chat_using_sockets)](https://repl.it/github/sukuzhanay/chat_using_sockets)
 
  ### Team PwC challenge 
