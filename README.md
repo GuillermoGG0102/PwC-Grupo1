@@ -9,7 +9,7 @@
  ## Architecture ##
  ![Architecture](https://github.com/sukuzhanay/tfginder/blob/main/tfginder%20architecture.png)
  [![Run on Repl.it](https://repl.it/badge/github/sukuzhanay/chat_using_sockets)](https://repl.it/github/sukuzhanay/chat_using_sockets)
- ### Team TFGINDER  
+ ### Team PWC challenge 
  Prof.: **Christian Vladimir Sucuzhanay Arevalo** 
  Repositorio que alberga el proyecto Tfginder, contará con las funcionalidades siguientes:
 1. **Muestra** la lista de **Directores de UE**, su disponiilidad, skills y temas
