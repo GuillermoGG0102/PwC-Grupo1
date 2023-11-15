@@ -18,12 +18,11 @@ inteligencia artificial, disponemos de nuevas técnicas más precisas.
  [![Run on Repl.it](https://repl.it/badge/github/sukuzhanay/chat_using_sockets)](https://repl.it/github/sukuzhanay/chat_using_sockets)
 
  ### Team PwC challenge 
- Prof.: **Christian Vladimir Sucuzhanay Arevalo** 
- Procesos elaborados:
-1. **Exploratory Data Analysis, Preproceso** Python
-2. **Prototipado** Rapid Miner
-3. **Elección de Modelo** Big Query
-4. **Data Visualization** Data Studio(Looker)
+ Procesos para la elaboración del proyecto:
+1. **Exploratory Data Analysis, Preproceso**: Python
+2. **Prototipado & Modeling**: Rapid Miner
+3. **Modelado & Despliegue**: Big Query
+4. **Data Visualization/Dashboard**: Data Studio(Looker)
    
 ### Miembros del proyecto
 1. **Profesor: Christian Vladimir Sucuzhanay Arevalo** ( Profesor )
