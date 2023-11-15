@@ -33,24 +33,13 @@ inteligencia artificial, disponemos de nuevas técnicas más precisas.
 ### Estructura y tecnologías usadas en _**PwC Challenge**_
 
 **FrontEnd**
-1. Streamlit
-2. Python
-3. JavaScript
-4. Github
-5. Figma
-6. React
-7. Ionic
+1. Github
+2. Data Studio / Looker
 
 **Backend**
-1. Firebase
-2. Base de datos NoSql ( realtime database )
-3. Storage ( almacenamiento de Fotos, CV)
-4. Autentificacion (auth)
-5. Dashboard Plotly 
-6. Python
-7. Javascript
-8. Github
-9. Figma
+1. Python
+2. Rapid Miner
+3. Big Query
 
 ![Logo of the project](https://github.com/sukuzhanay/tfginder/blob/main/UEM-logo.png)
 
