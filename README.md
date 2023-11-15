@@ -16,12 +16,15 @@ inteligencia artificial, disponemos de nuevas técnicas más precisas.
  ## Architecture ##
  ![Architecture](https://github.com/sukuzhanay/tfginder/blob/main/tfginder%20architecture.png)
  [![Run on Repl.it](https://repl.it/badge/github/sukuzhanay/chat_using_sockets)](https://repl.it/github/sukuzhanay/chat_using_sockets)
+
  ### Team PwC challenge 
  Prof.: **Christian Vladimir Sucuzhanay Arevalo** 
- Repositorio que alberga el proyecto PwC Challenge, contará con las funcionalidades siguientes:
-1. **Muestra** la lista de **Directores de UE**, su disponiilidad, skills y temas
-2. **Notifica** al **Director** de que lo ha **elegido** y recibiras su *Aceptacion o Negativa* 
-3. **Dashboard** interactivo para actualizar tu perfil como el de los directores
+ Procesos elaborados:
+1. **Exploratory Data Analysis, Preproceso** Python
+2. **Prototipado** Rapid Miner
+3. **Elección de Modelo** Big Query
+4. **Data Visualization** Data Studio(Looker)
+   
 ### Miembros del proyecto
 1. **Profesor: Christian Vladimir Sucuzhanay Arevalo** ( Profesor )
 2. Guillermo García González
