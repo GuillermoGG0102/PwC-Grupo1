@@ -1,7 +1,7 @@
 ![universidad-europea-logo](https://user-images.githubusercontent.com/17354471/218064896-b8411ee7-5cec-4e97-8a71-216a4e6f3bf4.png)
 
 
-# PwC Challenger #
+# PwC Challenge #
  ## PwC Detección de Fraudes  *RETO 2*! 
 Con nuestro modelo de detección de fraudes el problema de no detectar los fraudes a tiempo se terminará. 
  ![Design](https://github.com/sukuzhanay/tfginder/blob/main/tfginder_v1.drawio-2.png)
