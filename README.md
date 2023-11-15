@@ -3,15 +3,14 @@
 
 # PwC Challenger #
  ## PwC Detección de Fraudes  *RETO 2*! 
- _**TFGINDER**_ te ayuda a hacer match con el mejor director para tu TFG, podras conocer sus skills, disponibilidad, y si caes rendido a sus pies puedes enviarle una solicitud. No **llores más**, la solucion ha llegado
-
+Con nuestro modelo de detección de fraudes el problema de no detectar los fraudes a tiempo se terminará. 
  ![Design](https://github.com/sukuzhanay/tfginder/blob/main/tfginder_v1.drawio-2.png)
  ## Architecture ##
  ![Architecture](https://github.com/sukuzhanay/tfginder/blob/main/tfginder%20architecture.png)
  [![Run on Repl.it](https://repl.it/badge/github/sukuzhanay/chat_using_sockets)](https://repl.it/github/sukuzhanay/chat_using_sockets)
  ### Team PWC challenge 
  Prof.: **Christian Vladimir Sucuzhanay Arevalo** 
- Repositorio que alberga el proyecto Tfginder, contará con las funcionalidades siguientes:
+ Repositorio que alberga el proyecto PWCchallenge, contará con las funcionalidades siguientes:
 1. **Muestra** la lista de **Directores de UE**, su disponiilidad, skills y temas
 2. **Notifica** al **Director** de que lo ha **elegido** y recibiras su *Aceptacion o Negativa* 
 3. **Dashboard** interactivo para actualizar tu perfil como el de los directores
